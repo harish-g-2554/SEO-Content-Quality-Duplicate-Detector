@@ -12,12 +12,11 @@ jupyter notebook notebooks/seo_pipeline.ipynb
 
 ## Quick Start
 1. Place the provided dataset as `data/data.csv`.  
-   - **Primary dataset** columns: `url`, `html_content` (preferred).  
-   - **Alternative dataset**: `url` only; the notebook will scrape.
+   - **Primary dataset** columns: `url`, `html_content`.  
 2. Open the notebook and run all cells (it saves:  
    `data/extracted_content.csv`, `data/features.csv`, `data/duplicates.csv`, and a trained model under `models/quality_model.pkl`).
 
-## (Optional) Streamlit Demo
+## Streamlit Demo
 ```bash
 streamlit run streamlit_app/app.py
 ```
