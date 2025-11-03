@@ -52,7 +52,7 @@ streamlit run streamlit_app/app.py
 > Make sure you’ve already run the notebook first (to generate `features.csv` and `quality_model.pkl`).
 > The app accepts any URL and returns readability, quality score, and duplicate matches.
 
-Access the deployed version on [Streamlit Cloud](https://harish-g-2554-seo-content-detector.streamlit.app).
+Access the deployed version on [Streamlit Cloud](https://seo-content-quality-duplicate-detector-9hkwtdyget8p3qdajvb6dq.streamlit.app/).
 
 
 ---
