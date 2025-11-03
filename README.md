@@ -32,7 +32,6 @@ jupyter notebook notebooks/seo_pipeline.ipynb
 1. Place the provided dataset as `data/data.csv`.
 
    * **Primary dataset** columns: `url`, `html_content`.
-   * **Alternative dataset** (URLs only): notebook will scrape automatically.
 2. Open and run the Jupyter notebook end-to-end.
 
    * It generates:
