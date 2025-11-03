@@ -1,0 +1,21 @@
+# Core
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+scipy==1.11.4
+
+# HTML parsing & scraping
+beautifulsoup4==4.12.3
+lxml==5.2.1
+requests==2.32.3
+
+# NLP & readability
+textstat==0.7.3
+nltk==3.9.1
+sentence-transformers==3.0.1
+
+# Viz (optional)
+matplotlib==3.8.4
+
+# Streamlit (optional bonus)
+streamlit==1.37.0

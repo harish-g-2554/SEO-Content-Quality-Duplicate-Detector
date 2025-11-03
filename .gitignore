@@ -1,0 +1,20 @@
+# Environments and caches
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS
+.DS_Store
+
+# Data / Models (allow CSV outputs but ignore large/intermediate or raw HTML)
+data/*.html
+data/*.json
+data/*.parquet
+data/*.pkl
+data/*.npy
+models/*.pkl
+
+# Streamlit
+.streamlit/
