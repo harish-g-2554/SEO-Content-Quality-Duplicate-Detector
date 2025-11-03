@@ -14,8 +14,8 @@ textstat==0.7.3
 nltk==3.9.1
 sentence-transformers==3.0.1
 
-# Viz (optional)
+# Viz
 matplotlib==3.8.4
 
-# Streamlit (optional bonus)
+# Streamlit
 streamlit==1.37.0
